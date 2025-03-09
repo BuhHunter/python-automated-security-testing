@@ -1,1 +1,8 @@
-[Logo]([https://example.com/logo.png](https://github.com/BuhHunter/python-automated-security-testing/blob/main/start.jpeg?raw=true))
+python ile güvenlik zafiyet tarayıcısı 
+
+taranan açıklar
+
+sql inj zafiyetleri
+xss zafiyetleri
+admin finder
+backup finder
