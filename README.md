@@ -1,1 +1,1 @@
-[Logo]([https://example.com/logo.png](https://github.com/BuhHunter/python-automated-security-testing/blob/main/start.jpeg?raw=true))
+<img src="https://raw.githubusercontent.com/BuhHunter/python-automated-security-testing/refs/heads/main/start.jpeg" alt="GitHub Logo" width="100">
